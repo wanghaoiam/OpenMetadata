@@ -133,3 +133,7 @@ ingestion/tests/cli_e2e/**/*test.yaml
 
 # GX artifacts
 /ingestion/tests/integration/great_expectations/gx/*
+
+node_modules
+**/node_modules
+.idea
